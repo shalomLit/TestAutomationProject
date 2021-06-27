@@ -1,0 +1,5 @@
+init driver before yield
+init BasePage
+do_send_key basePage
+do_send_key basePage
+init driver apter yield

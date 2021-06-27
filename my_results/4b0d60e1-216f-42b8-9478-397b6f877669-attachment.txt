@@ -1,0 +1,8 @@
+init driver before yield
+test login
+init LogInOrg before super().init
+init BasePage
+init LogInOrg after super().init
+do_login LogInOrg
+do_send_key basePage
+init driver apter yield

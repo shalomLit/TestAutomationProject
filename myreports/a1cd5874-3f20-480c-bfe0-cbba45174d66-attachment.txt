@@ -1,0 +1,5 @@
+init driver before yield
+do_send_key basePage
+do_send_key basePage
+<selenium.webdriver.remote.webelement.WebElement (session="10ea2bf405938a055c5928b8dfe22113", element="582eb908-38ac-46d4-aa4d-b0c379eea310")>
+init driver apter yield
