@@ -6,8 +6,7 @@ from infra.api.projects_api import ProjectsApi
 from infra.api.rest_client import restClient
 
 
-
-@pytest.mark.get_api11
+@pytest.mark.get_api11111111
 def test_get_project_by_id():
 
     path='/api/v3/projects/'

@@ -1,8 +1,5 @@
-import requests
-import pytest
-from requests.auth import HTTPBasicAuth
-from infra.api.config import TestAPI
-from infra.api.rest_client import restClient
+from infra import TestAPI
+from infra import restClient
 
 class get_project():
 

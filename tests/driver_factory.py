@@ -1,7 +1,6 @@
-import pytest
+from selenium import webdriver
 
 from infra.config import TestData
-from selenium import webdriver
 
 
 class DriverFactory:

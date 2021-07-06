@@ -1,6 +1,5 @@
-import time
-
 import pytest
+
 from infra.config import TestData
 from pages.HomePage import HomePage
 from pages.LoginUserPage import LogInUser

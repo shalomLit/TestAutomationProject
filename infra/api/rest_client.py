@@ -1,7 +1,6 @@
-from http import HTTPStatus
-
 import requests
 from requests.auth import HTTPBasicAuth
+
 from infra.api.config import TestAPI
 
 

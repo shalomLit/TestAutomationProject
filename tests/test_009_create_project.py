@@ -3,8 +3,9 @@ from pages.HomePage import HomePage
 from pages.LoginUserPage import LogInUser
 from pages.createProjectPage import CreateProject
 from pages.project_page import ProjectPage
-from tests.driver_factory import DriverFactory
 import pytest
+
+from tests.driver_factory import DriverFactory
 
 
 @pytest.mark.task9

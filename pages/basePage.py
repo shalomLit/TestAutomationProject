@@ -1,4 +1,3 @@
-import time
 from telnetlib import EC
 
 from selenium.webdriver.support import expected_conditions as EC
@@ -9,8 +8,6 @@ from selenium.webdriver import ActionChains
 from selenium.webdriver.remote.webdriver import WebDriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.remote.webelement import WebElement
-
-from infra.config import TestData
 
 
 class BasePage:
