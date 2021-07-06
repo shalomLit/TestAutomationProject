@@ -1,7 +1,7 @@
 from allure_commons._allure import step
 from selenium.webdriver.common.by import By
 
-from infra.config import TestData
+from infra.ui.config import TestData
 from pages.basePage import BasePage
 
 

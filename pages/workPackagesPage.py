@@ -3,7 +3,7 @@ import time
 from selenium.webdriver.common.by import By
 from allure_commons._allure import step
 
-from infra.config import TestData
+from infra.ui.config import TestData
 from pages.basePage import BasePage
 
 

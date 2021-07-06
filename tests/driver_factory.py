@@ -1,6 +1,5 @@
 from selenium import webdriver
-
-from infra.config import TestData
+from infra.ui.config import TestData
 
 
 class DriverFactory:

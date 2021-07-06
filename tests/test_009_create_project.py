@@ -1,4 +1,4 @@
-from infra.config import TestData
+from infra.ui.config import TestData
 from pages.HomePage import HomePage
 from pages.LoginUserPage import LogInUser
 from pages.createProjectPage import CreateProject
