@@ -1,4 +1,0 @@
-init driver before yield
-do_send_key basePage
-do_send_key basePage
-init driver apter yield
